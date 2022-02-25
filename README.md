@@ -1,16 +1,15 @@
-### Hi there 👋
+# XHG78999's coding home
+#### Developing is a good activity!
+Welcome to my coding home! I stay here for many projects and files.
+I am a small middle school student and loves coding. You can step by me!
+> Because of the busy study, I only can update on weekends for some hours. DO NOT ask me for update.
 
-<!--
-**XHG78999/XHG78999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tasks
+- Rail Map Generator
+- GoormIDE Hack
+- SpringFestivalCoupletGenerator
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: me@xhg78999.tk or hahaguo1107@foxmail.com
+CSDN: =XHG78999=
+Bilibili: XHG78999
